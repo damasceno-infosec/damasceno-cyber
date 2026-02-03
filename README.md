@@ -1,6 +1,6 @@
 # Guilherme Damasceno
 
-Estudante de TI com foco em **Cibersegurança, Redes, Python e Linux**.  
+Estudante de TI com foco em **Cibersegurança, Redes, Linguagens de programação e Linux**.  
 Uso este repositório como meu portfólio técnico, documentando projetos, estudos e laboratórios práticos.
 
 ---
